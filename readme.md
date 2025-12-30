@@ -6,6 +6,8 @@ Calculate your CGPA/SGPA accurately according to RTU grading standards. Enter yo
 
 ---
 
+DEMO = https://cgpa-calculator-rtu.netlify.app/
+
 ## ✨ Key Features
 
 ### 📊 Calculation Methods
@@ -233,6 +235,6 @@ Free to use for educational purposes. No warranty provided.
 
 ---
 
-**Made with ❤️ for RTU Students**
+**made by RED-GHOST**
 
 *Calculate Smart, Study Hard! 📚✨*
